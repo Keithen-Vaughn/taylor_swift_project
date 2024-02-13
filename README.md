@@ -1,5 +1,7 @@
 # taylor_swift_project
 
+My Google Sheets link: https://docs.google.com/spreadsheets/d/1_IZ1UDPiK48wa-yH-5d7tfvEuT4xp4X_WZoF2dMAbzo/edit?usp=sharing
+
 Dataset provided on Kaggle by Jarred Priester - https://www.kaggle.com/datasets/jarredpriester/taylor-swift-spotify-dataset
 
 In this project I will be using microsoft excel and google sheets to clean data, examine the data to see if its possible to predict popularity of songs based off of track metrics, check correlations, and also visualize my findings.
